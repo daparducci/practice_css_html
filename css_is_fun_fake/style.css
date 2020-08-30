@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+h1, h2, p {
+    margin-top: 0;
+}
+
+header {
+    text-align: left;
+    color: white;
+    background-color: #2E354F;
+    width: 100%;
+    padding: 45px 75px 45px 0px;
+}
+
+h1 {
+    margin: 0 auto;
+    max-width: 620px;
+    font-size: 36px;
+}
+
+h2 {
+    color: #EF5839;
+    text-align: left;
+    font-size: 24px;
+}
+
+img {
+    max-width: 620px;
+}
+
+p {
+    text-align: left;
+}
+
+.card1 {
+    text-align: center;
+    background-color: white;
+    width: 100%;
+}
+
+.card2 {
+    text-align: center;
+    background-color: #2E354F;
+    width: 100%;
+}
+
+/*  Div Cards  */
+
+.main-content {
+    text-align: center;
+    max-width: 620px;
+    margin: 0 auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.main2-content {
+    text-align: left;
+    max-width: 620px;
+    margin: 0 auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: white;
+}
+
+/* Links */
+
+.link-dark {
+    text-decoration: none;
+    color: #EF5839;
+}
+
+/* Buttons */
+
+.btn {
+    display: inline-block;
+    padding: 15px 30px;
+    margin-right: 10px;
+}
+
+.btn-light {
+    background-color: white;
+}
+
+.btn-light:hover {
+    background-color: #EF5839;
+}
+
+.btn-dark {
+    background-color: #EF5839;
+}
+
+.btn-dark:hover {
+    background-color: white;
+}
+
+.text-accent-dark {
+    font-weight: 900;
+    color: #EF5839;
+}
+
+.text-accent-light {
+    font-weight: 900;
+    color: white;
+}
